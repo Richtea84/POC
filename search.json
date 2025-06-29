@@ -25,6 +25,13 @@
     "href": "resid.html",
     "title": "Residual Plot",
     "section": "",
-    "text": "The map below shows the mapping of residual error for a univariate model between census diversity and the diversity of university staff. Values close to 0 are where the model works best.\nFor reference, \\(r^2\\) = 0.47."
+    "text": "The map below shows the mapping of residual error for a univariate model between census diversity and the diversity of university staff. Values close to 0 are where the model works best.\nFor reference, \\(r^2\\) = 0.47.\n\n\n\n\n\n\n\nAcademic breakdown\n\n\nNon-academic breakdown"
+  },
+  {
+    "objectID": "census.html",
+    "href": "census.html",
+    "title": "Base Diversity",
+    "section": "",
+    "text": "The map below shows SWI derived diversity as captured by the 2021 Census.\n\n\n\n\n\n\nThe fields that contribute to the calculation for diversity are noted in Table 1.\n\n\nWarning in matrix(eth_vec, ncol = 3, byrow = F): data length [19] is not a\nsub-multiple or multiple of the number of rows [7]\n\n\n\n\nTable 1: Census ethnic groups captured by SWI process\n\n\n\n\n\n\nAfrican\nIrish\nRoma\n\n\nArab\nOther Black\nWhite_Asian\n\n\nBangladeshi\nOther_Asian\nWhite_Black_African\n\n\nCaribbean\nOther_Eth\nWhite_Black_Caribbean\n\n\nChinese\nOther_Mixed\nWhite_UK\n\n\nGypsy\nOther_White\nAfrican\n\n\nIndian\nPakistani\nArab"
   }
 ]
