@@ -2,7 +2,7 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Map",
+    "title": "Diversity in Higher Education Overview",
     "section": "",
     "text": "The purpose of this website is to share a range of interactive layers related to the geographic HESA (Higher Education Statistics Authority) and Census Data featured in our project. The data shown cumulatively spans between the academic years of 2014/15 and 2023/2024.\nStatistical diversity returns for higher education providers in England and Wales have been broken down into academic and non-academic classifications.\nTypically used to calculate ecological diversity, the Shannon-Weaver Index (SWI) scoring approach is applied to ethnic classifications as captured by the 2021 census (Equation 1). This same process is also applied to calculate diversity within higher education institutions using the available HESA classifications.\n\\[\nH' = \\sum_i p_i log_b p_i\n\\tag{1}\\]\nHere, \\(p_i\\) refers to the proportional abundance of a species, and \\(b\\) is the base for the logarithm - in this experiment it is the natural logarithm."
   },
@@ -32,12 +32,12 @@
     "href": "census.html",
     "title": "Base Diversity",
     "section": "",
-    "text": "The map below shows SWI derived diversity as captured by the 2021 Census.\n\n\n\n\n\n\nThe fields that contribute to the calculation for diversity are noted in Table 1.\n\n\n\n\nTable 1: Census ethnic groups captured by SWI process\n\n\n\n\n\n\nAfrican\nIrish\nRoma\n\n\nArab\nOther Black\nWhite_Asian\n\n\nBangladeshi\nOther_Asian\nWhite_Black_African\n\n\nCaribbean\nOther_Eth\nWhite_Black_Caribbean\n\n\nChinese\nOther_Mixed\nWhite_UK\n\n\nGypsy\nOther_White\nAfrican\n\n\nIndian\nPakistani\nArab"
+    "text": "The map below shows SWI derived diversity as captured by the 2021 Census.\n\n\n\n\n\n\nThe fields that contribute to the calculation for diversity are listed in Table 1.\n\n\n\n\nTable 1: Census ethnic groups captured by SWI process\n\n\n\n\n\n\nAfrican\nIrish\nRoma\n\n\nArab\nOther Black\nWhite_Asian\n\n\nBangladeshi\nOther_Asian\nWhite_Black_African\n\n\nCaribbean\nOther_Eth\nWhite_Black_Caribbean\n\n\nChinese\nOther_Mixed\nWhite_UK\n\n\nGypsy\nOther_White\nAfrican\n\n\nIndian\nPakistani\nArab"
   },
   {
     "objectID": "index.html#data-sources",
     "href": "index.html#data-sources",
-    "title": "Map",
+    "title": "Diversity in Higher Education Overview",
     "section": "Data Sources",
     "text": "Data Sources\n\nCensus 2021: https://www.nomisweb.co.uk/\nHigher Education Statistics Authority (Table 2): https://www.hesa.ac.uk/data-and-analysis/students/table-2"
   }
